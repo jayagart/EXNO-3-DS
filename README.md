@@ -1,5 +1,7 @@
 ## EXNO-3-DS
-
+## Name: Jayagar.T
+## Reg.No: 212224220042
+## Date:10-03-2026
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
 
